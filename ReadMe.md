@@ -5,3 +5,6 @@
 >* 处理静动态请求
 >* 调用servlet
 >* 做出响应
+
+###博客地址
+**https://blog.csdn.net/zhangjingao/article/category/7724068**
