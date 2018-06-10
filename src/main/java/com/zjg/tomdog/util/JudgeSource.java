@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 public class JudgeSource {
 
     /**
-     * 判断资源属于动态或静态,处理一些常见的资源
+     * 判断资源属于动态或静态,处理一些常见的资源后续可追加
      * @param path 资源文件路径
      */
     public boolean judgeSourceType(String path) {
